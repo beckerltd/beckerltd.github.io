@@ -1,2 +1,2 @@
 # beckerltd.github.io
-Website for Becket Ltd hosted using GitHub Pages.
+Website for Becker Ltd hosted using GitHub Pages.
